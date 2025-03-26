@@ -13,7 +13,6 @@ body {
     background-image: linear-gradient(#F9FAFB,#D2D6DB);
     display: flex;
     justify-content: center;
-    align-items: center;
 
 }
 
@@ -30,7 +29,8 @@ body {
     padding: 24px;
     border-radius: 8px;
     box-shadow: 0px 1px 2px -1px rgb(0 0 0 / 0.10), 0px 1px 3px 0 rgb(0 0 0 / 0.10);
-
+    margin-top: 200px;
+    margin-bottom: auto;
 
 }
 ._profile-pic {
